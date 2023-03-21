@@ -27,7 +27,7 @@ dependencies:
   location: ^2.3.5
   google_maps_flutter: ^0.5.21
   sliding_up_panel: ^0.3.5
-  dio: ^2.1.16
+  dio: ">=2.1.16 <6.0.0"
 
 
 dev_dependencies:
